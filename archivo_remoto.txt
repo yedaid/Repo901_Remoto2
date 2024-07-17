@@ -1,4 +1,8 @@
 nueva linea modificada segunda parte 
 aplicacion de git pull para actualizar repo local
 agregando linea3
+<<<<<<< HEAD
 vamos a forzar el PUSH
+=======
+vamos a forzar el push
+>>>>>>> 9785861e44b3cf0c36c8320837bf764e2cc432c7
